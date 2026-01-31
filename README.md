@@ -23,10 +23,5 @@ Repository to test GitHub actions with webhook
 - Ensure Flask server is running on port `5000`.
 - Use the **ngrok HTTPS URL** to allow GitHub to send events.
 
-- ## Purpose
-
-- Trigger webhook events for **Push** and **Pull Request** actions.
-- Forward events to a Flask server running locally and exposed via **ngrok**.
-- Later, events will be stored in **MongoDB** and displayed in a minimal UI.
 
 
