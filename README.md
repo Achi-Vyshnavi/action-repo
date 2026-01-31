@@ -12,16 +12,3 @@ Repository to test GitHub actions with webhook
 2. Flask server should receive the webhook payload.
 3. Verify in Flask console that the webhook data is printed.
 
-## Notes
-
-- Ensure Flask server is running on port `5000`.
-- Use the **ngrok HTTPS URL** to allow GitHub to send events.
-
-- Thank you,this is the Repo of this assignment
-- ## Notes
-
-- Ensure Flask server is running on port `5000`.
-- Use the **ngrok HTTPS URL** to allow GitHub to send events.
-
-
-
